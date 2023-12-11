@@ -1,0 +1,37 @@
+{
+    "ProjectsArray" : [
+        {
+            "id" : 1,
+            "Title" : "Employee Portal",
+            "About" : "FDMployee. A University Project where my group and I were assigned an external client from FDM Group to create an employee portal that met the client's requirements.This was a 12 week long project where we as a group had frequent meetings with out client whilst following the software development cycle.",
+            "Link" : "https://github.com/Fahadoid/FDMPloyee"
+            
+        },
+
+        {
+            "id" : 2,
+            "Title" : "Weather Application",
+            "About" : "A University Project where my group and I were tasked with asking members of the public of their grievances with current popular weather applications and then using this information to create a new application using React which would fufill these requirements..",
+            "Link" : "https://github.com/Fahadoid/WeatherApplication"
+            
+        },
+
+        {
+            "id" : 3,
+            "Title" : "Auction Website",
+            "About" : "A University Project where my group and I were tasked with creating an auction website similar in functionality to eBay where users can buy and sell items.",
+            "Link" : "https://github.com/Fahadoid/AuctionWebsite"
+            
+        },
+
+        {
+            "id" : 4,
+            "Title" : "Approximating Bayesian Inference through Discretization",
+            "About" : "My University Dissertation where I created a piece of code that would simulate other currently established bayesian inference methods but by using discretization rather than taking a continuous approach",
+            "Link" : "https://github.com/Fahadoid/FinalYearProject"
+            
+        }
+
+        
+    ]
+}
